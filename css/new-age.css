@@ -28,7 +28,7 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: #fdcc52;
+  color: #7b4397;
 }
 a:hover,
 a:focus {
@@ -72,7 +72,7 @@ p {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
-  color: #fdcc52;
+  color: #7b4397;
 }
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
@@ -135,7 +135,7 @@ p {
   }
   .navbar-default.affix .navbar-header .navbar-brand:hover,
   .navbar-default.affix .navbar-header .navbar-brand:focus {
-    color: #fdcc52;
+    color: #7b4397;
   }
   .navbar-default.affix .nav > li > a,
   .navbar-default.affix .nav > li > a:focus {
@@ -401,10 +401,10 @@ footer ul li a.active {
   background: linear-gradient(#7b4397, #dc2430);
 }
 .bg-secondary {
-  background: #fdcc52;
+  background: #7b4397;
 }
 .text-primary {
-  color: #fdcc52;
+  color: #7b4397;
 }
 .no-gutter > [class*='col-'] {
   padding-right: 0;
@@ -420,8 +420,8 @@ footer ul li a.active {
 .btn-outline:active,
 .btn-outline.active {
   color: white;
-  background-color: #fdcc52;
-  border-color: #fdcc52;
+  background-color: #7b4397;
+  border-color: #7b4397;
 }
 .btn {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
