@@ -373,6 +373,29 @@ section.contact ul.list-social li.social-google-plus a {
 section.contact ul.list-social li.social-google-plus a:hover {
   background-color: #d73925;
 }
+section.what {
+  color: white;
+  position: relative;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  background-position: center;
+  background-image: url('../img/what.jpg');
+  padding: 50px 0;
+}
+section.what .cta-content {
+  position: relative;
+  z-index: 1;
+}
+section.what .overlay {
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
 footer {
   background-color: #222222;
   padding: 25px 0;
