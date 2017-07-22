@@ -76,7 +76,7 @@ p {
 }
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-  color: #fcbd20;
+  color: #7b4397;
 }
 .navbar-default .navbar-header .navbar-toggle {
   font-size: 12px;
@@ -95,11 +95,11 @@ p {
 }
 .navbar-default .nav > li > a:hover,
 .navbar-default .nav > li > a:focus:hover {
-  color: #fdcc52;
+  color: #7b4397;
 }
 .navbar-default .nav > li.active > a,
 .navbar-default .nav > li.active > a:focus {
-  color: #fdcc52 !important;
+  color: #7b4397 !important;
   background-color: transparent;
 }
 .navbar-default .nav > li.active > a:hover,
@@ -143,7 +143,7 @@ p {
   }
   .navbar-default.affix .nav > li > a:hover,
   .navbar-default.affix .nav > li > a:focus:hover {
-    color: #fdcc52;
+    color: #7b4397;
   }
 }
 header {
@@ -321,6 +321,7 @@ section.cta .cta-content h2 {
     font-size: 80px;
   }
 }
+
 section.cta .overlay {
   height: 100%;
   width: 100%;
@@ -338,6 +339,9 @@ section.contact h2 {
 }
 section.contact h2 i {
   color: #dd4b39;
+}
+section.contact h1 {
+  font-size: 32px;
 }
 section.contact ul.list-social {
   margin-bottom: 0;
@@ -393,9 +397,11 @@ footer ul li a.active {
   text-decoration: none;
 }
 .bg-primary {
+  background: -webkit-linear-gradient(to left, #7b4397, #dc2430);
+  background: linear-gradient(#7b4397, #dc2430);
+}
+.bg-secondary {
   background: #fdcc52;
-  background: -webkit-linear-gradient(#fdcc52, #fdc539);
-  background: linear-gradient(#fdcc52, #fdc539);
 }
 .text-primary {
   color: #fdcc52;
