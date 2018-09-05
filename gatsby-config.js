@@ -4,7 +4,6 @@ module.exports = {
     author: "Jordi Serra",
     description: "Conviértete en el desarrollador TOP que siempre soñaste ser"
   },
-  pathPrefix: '/Codecrafters-site-v2',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
