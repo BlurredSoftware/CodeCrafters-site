@@ -30,7 +30,18 @@ class Index extends React.Component {
 
     return (
       <div>
-        <Helmet title={this.props.data.site.siteMetadata.title} />
+
+        <Helmet title={this.props.data.site.siteMetadata.title}>
+          <meta property="og:title" content="Code Crafters" />
+          <meta property="og:description" content="Become a TOP iOS Developer" />
+          <meta property="og:image" content="http://codecrafters.io/static/logocc.b146854e.png" />
+          <meta property="og:url" content="http://codecrafters.io" />
+
+          <meta name="twitter:title" content="Code Crafters" />
+          <meta name="twitter:description" content="Become a TOP iOS Developer" />
+          <meta name="twitter:image" content="http://codecrafters.io/static/logocc.b146854e.png" />
+          <meta name="twitter:card" content="http://codecrafters.io" />
+        </Helmet>
 
         <Header />
 
