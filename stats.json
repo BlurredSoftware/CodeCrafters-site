@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
     "path---my-second-post": [
-      "path---my-second-post-80cb75dcbb7ef3a5f56e.js",
-      "path---my-second-post-80cb75dcbb7ef3a5f56e.js.map"
+      "path---my-second-post-f9a7c8cef70b7f1c0b9f.js",
+      "path---my-second-post-f9a7c8cef70b7f1c0b9f.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-181f00eff1560fdc92f0.js",
-      "component---src-pages-index-js-181f00eff1560fdc92f0.js.map"
+      "component---src-pages-index-js-cd792f24ff3d082bbcbc.js",
+      "component---src-pages-index-js-cd792f24ff3d082bbcbc.js.map"
     ],
     "path---generic": [
       "path---generic-4a6d44df440d493583bf.js",
@@ -21,20 +21,20 @@
       "component---src-templates-blog-post-js-9d1eb36e66c47d932c30.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-6c7b28615e81f9c2b4c3.js",
-      "component---src-layouts-index-js-6c7b28615e81f9c2b4c3.js.map"
+      "component---src-layouts-index-js-c999900926a652a9b6c1.js",
+      "component---src-layouts-index-js-c999900926a652a9b6c1.js.map"
     ],
     "path---hi-folks": [
-      "path---hi-folks-20aee2d8230512fb1b02.js",
-      "path---hi-folks-20aee2d8230512fb1b02.js.map"
+      "path---hi-folks-dabd778877a36c40028b.js",
+      "path---hi-folks-dabd778877a36c40028b.js.map"
     ],
     "path---index": [
       "path---index-4a6d44df440d493583bf.js",
       "path---index-4a6d44df440d493583bf.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-0b621fa37dc505fec8f2.js",
-      "path---hello-world-0b621fa37dc505fec8f2.js.map"
+      "path---hello-world-c8feadd4c7a27b1c16f5.js",
+      "path---hello-world-c8feadd4c7a27b1c16f5.js.map"
     ],
     "component---src-pages-generic-js": [
       "component---src-pages-generic-js-16b04932eff274766280.js",
@@ -45,8 +45,8 @@
       "commons-d91f546ed7f3bf468095.js.map"
     ],
     "app": [
-      "app-90533101e170b63fd06b.js",
-      "app-90533101e170b63fd06b.js.map"
+      "app-c073264d64fd8ec10b0f.js",
+      "app-c073264d64fd8ec10b0f.js.map"
     ]
   }
 }
