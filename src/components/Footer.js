@@ -27,7 +27,7 @@ const Footer = props => (
             </div>
             <div className="colm">
               <a href="mailto:pcifani@theleftbit.com" className="icon fa-envelope alt" />
-              <div className="text">pcifani@blurredsoftware.com</div>
+              <div className="text">pcifani@theleftbit.com</div>
             </div>
             <div className="colm">
               <a href="https://github.com/CodeCraftersIO" className="icon fa-github alt" />

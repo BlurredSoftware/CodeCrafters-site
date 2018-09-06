@@ -9,8 +9,8 @@ export default () => (
     <a href="https://www.google.es/maps/place/Coworking+Born+-+COR23/@41.3895433,2.1803507,15z/data=!4m2!3m1!1s0x0:0x46943d05b354a23c?sa=X&ved=2ahUKEwiMgqDEzZfdAhUPWBoKHYvdAScQ_BIwDnoECAoQCw" className="icon fa-map-marker alt major" />
       <div className="text">
         <h2>¿Dónde?</h2>
-        <h4>El curso será en las instalaciones de <strong>Cor23</strong></h4>
-        <h4>Carrer d'En Cortines, 23, 08003 Barcelona</h4>
+        <h4>El curso será en las instalaciones de <strong>Corevents</strong></h4>
+        <h4>Carrer de Casp, 127 08013 Barcelona</h4>
       </div>
     </div>
     <div className="content">

@@ -12,7 +12,7 @@ export default () => (
     <footer className="major">
       <ul className="actions">
         <li><a href="mailto:pcifani@theleftbit.com" className="button">Contáctanos</a></li>
-        <li><Link to="#" className="button special">Inscríbete</Link></li>
+        <li><a href="http://buytickets.at/codecrafters/195055" className="button special">Inscríbete</a></li>
       </ul>
     </footer>
   </div>
