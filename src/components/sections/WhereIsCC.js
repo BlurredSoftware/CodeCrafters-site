@@ -6,7 +6,7 @@ export default () => (
       <h2>Preguntas frecuentes</h2>
     </header>
     <div className="content">
-    <a href="https://www.google.es/maps/place/Coworking+Born+-+COR23/@41.3895433,2.1803507,15z/data=!4m2!3m1!1s0x0:0x46943d05b354a23c?sa=X&ved=2ahUKEwiMgqDEzZfdAhUPWBoKHYvdAScQ_BIwDnoECAoQCw" className="icon fa-map-marker alt major" />
+    <a href="https://www.google.com/maps/place/Carrer+de+Casp,+127,+08013+Barcelona/@41.3970545,2.1785366,17z/data=!3m1!4b1!4m5!3m4!1s0x12a4a2e1150b1349:0x773ef7618feaacc2!8m2!3d41.3970505!4d2.1807253" className="icon fa-map-marker alt major" />
       <div className="text">
         <h2>¿Dónde?</h2>
         <h4>El curso será en las instalaciones de <strong>Corevents</strong></h4>
